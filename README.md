@@ -1,8 +1,8 @@
-# 📚 Hadith & Dua Assets
+# 📚 Islamic Hadith & Dua Assets
 
 A comprehensive collection of Hadith and Duas sourced from authentic Islamic texts. Open-sourced for developers to use in their projects.
 
-> **Made with ❤️ for the Ummah**
+> **Prepared while building Kitably • Open for the community**
 > Built for [Kitably — Quran & Sunnah. Download on Google Play](https://play.google.com/store/apps/details?id=com.sehalhussain.kitably)
 
 ---
@@ -10,6 +10,12 @@ A comprehensive collection of Hadith and Duas sourced from authentic Islamic tex
 ## 📖 Overview
 
 This repository contains structured, machine-readable Islamic assets — **7 major Hadith collections** scraped from sunnah.com in SQLite databases and **300+ Duas & Adhkar** from Hisnul Muslim in JSON format. Each hadith includes Arabic text, English translation, narrator information, grading, and cross-references. 
+
+✨ Why this exists
+
+While building Kitably, I realised preparing Islamic content took more effort than building features.
+
+This repo contains some of the structured assets prepared along the way so other students and developers can build faster.
 
 ---
 
