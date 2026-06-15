@@ -302,14 +302,15 @@ This project is **open-source** and free for anyone to use in their projects.
 - ✅ Modify and adapt the data for your needs
 - ✅ Distribute the data in your applications
 
-**Requirements:**
-- 🙏 **Give credit to [Sehal Hussain](https://play.google.com/store/apps/details?id=com.sehalhussain.kitably)** when using these assets in your project
+### Attribution (Appreciated, Not Required)
 
-### How to Credit
+If these assets become useful in your project, credit is appreciated but never expected.
 
-When using these assets, please include a mention such as:
+Example:
 
-> Hadith and Dua assets provided by [Sehal Hussain](https://play.google.com/store/apps/details?id=com.sehalhussain.kitably) — [Kitably App](https://play.google.com/store/apps/details?id=com.sehalhussain.kitably)
+> Built using Islamic assets prepared by Sehal Hussain for Kitably — https://play.google.com/store/apps/details?id=com.sehalhussain.kitably
+
+If not, please remember me in your duas 🤍
 
 ---
 
