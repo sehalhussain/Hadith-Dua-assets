@@ -165,7 +165,15 @@ The `duas-adhkar-hisnul-muslim.json` file contains a complete collection of dail
 
 ### Segments
 
-The collection is organized into **6 main segments**:
+The collection is organized into **7 main segments**:
+
+#### 📖 Quranic Duas
+- **Forgiveness & Repentance** — Duas for seeking forgiveness for sins and acknowledging personal wrongdoings
+- **Protection from Punishment** — Duas for seeking refuge from the Hellfire and protection from oppressors & wrongdoers
+- **Guidance & Knowledge** — Duas for seeking steadfastness, increase in knowledge, and ease in difficult affairs
+- **Family & Righteous Offspring** — Duas for righteous children, mercy for parents, and the faith of the family
+- **Patience & Victory** — Duas for seeking patience during hardships and asking Allah for victory and justice against enemies
+- **Faith, Gratitude & Blessings** — Duas for declaring faith, seeking goodness in both worlds, expressing gratitude, and other miscellaneous Quranic supplications
 
 #### 📖 Daily Life
 - **Waking & Sleeping** — Duas for before sleeping and upon waking
